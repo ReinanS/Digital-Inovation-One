@@ -1,5 +1,6 @@
 package one.digitalinnovation.tipos.tipagem;
 
+//  Não permite um mesmo dado ser tratado como se fosse de outro tipo.
 public class TipagemForte {
 
     public static void main(String[] args) {
